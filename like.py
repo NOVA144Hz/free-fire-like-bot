@@ -11,7 +11,7 @@ API_SECRET = "sec_olejbuxj0k92fttg"
 
 timeout = 50 #seconds 
 
-print("Welcome to the bhuwan likes bot. please enter the uid to post the likes\n")
+print("Welcome to the NOVA likes bot. please enter the uid to post the likes\n")
 
 print("\n")
 print("╔═══════════════════════════════════════════════════════════════╗")
