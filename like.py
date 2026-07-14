@@ -112,5 +112,5 @@ if __name__ == "__main__":
         print("=" * 60 + "\n")
         
         if user_input == "exit" or user_input == "q":
-            print("👋 Thanks for using BHUWAN LIKE APIS!")
+            print("👋 Thanks for using NOVA LIKE APIS!")
             break
